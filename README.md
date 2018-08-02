@@ -7,9 +7,9 @@ Front-end는 'Vue.js', Back-end'는 Flask', DB는 기존의 MySQL, 인프라는 
 설명 순서
 -------------------------
 
-- [진행 상황]()
-- [몰라요]()
-- [세부 문서]()
+- [진행 상황](https://github.com/Fungramming/iCRAFT-Brandsafer/blob/master/README.md#진행 상황)
+- [몰라요](https://github.com/Fungramming/iCRAFT-Brandsafer/blob/master/README.md#몰라요)
+- [세부 문서](https://github.com/Fungramming/iCRAFT-Brandsafer/blob/master/README.md#세부 문서)
 
 진행 상황
 -------------------------
