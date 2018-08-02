@@ -1,8 +1,8 @@
 iCRAFT-Brandsafer
 ===================
 
-Front-end는 'Vue.js', Back-end'는 Flask', DB는 기존의 MySQL, 인프라는 PaaS인 ElasticBeanstalk을 이용하였다.
-추후에 AI와 blockchain을 결합할 때 docker를 섞어 다시 재배포할 예정이다.
+Front-end는 `Vue.js`, Back-end'는 `Flask`, DB는 기존의 `MySQL`, 인프라는 PaaS인 `ElasticBeanstalk`을 이용하였다.
+추후에 AI와 blockchain을 결합할 때 `docker`를 통해 재배포할 예정이다.
 
 설명 순서
 -------------------------
